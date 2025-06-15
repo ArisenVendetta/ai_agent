@@ -12,7 +12,7 @@ from functions.get_file_content import get_file_content
 from functions.write_file_content import write_file
 from functions.run_python import run_python_file
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 
 system_prompt = """
 You are a helpful AI coding agent.
